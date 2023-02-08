@@ -9,7 +9,7 @@
 
 - 🙂 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 💻 I’m currently learning **Django**
+- 💻 Currently learning Advance Python programming through online coursework and personal projects.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
