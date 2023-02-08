@@ -1,4 +1,5 @@
-<a href="#" ><img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></a>
+
+<div align='center'> <img  src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif"></div>
 
 <h1 align="center">Hi 👋👋, I'm Itish</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
