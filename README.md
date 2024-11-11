@@ -9,8 +9,6 @@
 
 - 🙂 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 💻 Currently learning Advance Python programming through online coursework and personal projects.
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/IPCODE77?tab=repositories)**
