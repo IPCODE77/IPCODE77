@@ -17,28 +17,8 @@
 
 ---
 
-## 🚀 Languages and Tools
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></a>
-  <a href="https://devdocs.io/c/" target="_blank"><img src="https://img.icons8.com/nolan/50/c-key.png" alt="C Language" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" /></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
-  <a href="https://docs.djangoproject.com/en/4.1/" target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" /></a>
-  <a href="https://github.com/IPCODE77" target="_blank"><img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" /></a>
-  <a href="https://www.jetbrains.com/pycharm/learn/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" /></a>
-  <a href="https://wordpress.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/react-native.png" alt="React" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" /></a>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo.png" height="50px" width="50px" alt="Elementor" />
-</p>
-
-<h3>Things I code with</h3>
+<h3> 🚀Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -65,6 +45,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Nodejs" src="[https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)" />
 </p>
 ---
 
