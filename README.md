@@ -34,7 +34,8 @@
      <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
       <a href="https://www.jetbrains.com/pycharm/learn/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
       <a href="https://wordpress.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
-  <a href="https://wordpress.org/" target="_blank">https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000</a>
+  <a href="https://wordpress.org/" target="_blank">![image](https://github.com/user-attachments/assets/585019eb-7407-49f7-9d17-9fe609fea4d2)
+</a>
  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo.png" height="50px" width="50px"/>
       
       
