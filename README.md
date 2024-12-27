@@ -50,8 +50,9 @@
     <img alt="MySql" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />  
     <img alt="MySql" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
     <img alt="MySql" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />  
+    <img alt="MySql" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />  
 </p>
----
+
 
 <div align="center">
   <img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="Full Stack Developer GIF" />
